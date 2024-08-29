@@ -59,7 +59,5 @@ To view and interact with the dashboard:
 
 The Plant Co. Performance Dashboard serves as a powerful tool for decision-makers in the company to monitor performance, identify areas for improvement, and make data-driven decisions. This project demonstrates the effective use of Power BI for transforming raw data into actionable insights.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
